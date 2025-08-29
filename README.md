@@ -58,7 +58,7 @@ The class Employee has its default constructor defined inside the class. When an
 ## **Program 2: Default Constructor (Out-class)**
 ### Logic:
 The default constructor is declared inside the class but defined outsid using the scope resolution operator `::`. When the object is created, it accepts employee details. A separate `display()` function shows stored information, illustrating separation of declaration and definition.
-## **Program 3: Parameterized Constructor (In-class)**
+## **Program 3: Parameterized Constructor**
 ### Logic:
 Demonstrates parameterized constructors where arguments are passed during object creation. The class Product accepts P_ID, Name, Category, and Price as parameters and stores them. A `display()` function prints the product details.
 ### Algorithm:
